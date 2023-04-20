@@ -1,0 +1,19 @@
+.text-add {
+    position: relative;
+  }
+
+
+
+  .text-block {
+    position: absolute;
+    bottom: 80px;
+    right: 20px;
+
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  .photo:hover{
+    transform: scale(1);
+    transition: 0.5s;
+}

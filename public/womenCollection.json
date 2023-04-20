@@ -1,0 +1,59 @@
+[
+    {
+        "id":1,
+        "name" :"LONG OVERCOAT",
+        "img" :"https://i.ibb.co/gmkHjdb/istockphoto-1292881466-612x612.jpg",
+        "price":20,
+        "stock":12
+
+    },
+    {
+        "id":2,
+        "name" :"PINK OVERCOAT",
+        "img" :"https://i.ibb.co/wKLTMZg/istockphoto-1207507141-612x612.jpg",
+        "price":20,
+        "stock":12
+
+    },
+    {
+        "id":3,
+        "name" :"PURPLE DENIM",
+        "img" :"https://i.ibb.co/zsMPq3d/istockphoto-1310992091-612x612.jpg",
+        "price":20,
+        "stock":12
+
+    },
+    {
+        "id":4,
+        "name" :"STYLISH YELLOW TOP",
+        "img" :"https://i.ibb.co/qNSm2fx/istockphoto-1063212632-612x612.jpg",
+        "price":20,
+        "stock":12
+
+    },
+    {
+        "id":5,
+        "name" :"FORMAL WHITE SHIRT",
+     "img":"https://i.ibb.co/Wk383Cq/istockphoto-1182668675-612x612.jpg",
+        "price":20,
+        "stock":12
+
+    },
+    {
+        "id":6,
+        "name" :"COMFORT RED",
+        "img" :"https://i.ibb.co/kqJs6pz/istockphoto-1299704846-612x612.jpg",
+        "price":20,
+        "stock":12
+
+    },
+    {
+        "id":7,
+        "name" :"BLACK JACKET",
+        "img" :"https://i.ibb.co/mNShqMh/istockphoto-1291100364-612x612.jpg",
+        "price":20,
+        "stock":12
+
+    }
+    
+]
